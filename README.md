@@ -25,3 +25,7 @@ Open the project in Eclipse and run `Main.java`.
 - Refactor to `ArrayList`
 - Real parking slot availability management
 - GUI / Web version
+
+### Screenshots
+![Menu](docs/menu.png)
+![Checkout](docs/checkout.png)
